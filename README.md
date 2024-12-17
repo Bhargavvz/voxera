@@ -1,6 +1,6 @@
 # 🚀 Voxera
 
-![Voxera Logo](https://postimg.cc/vggmczM0)
+![Whats-App-Image2024-12-17at11-20-37-eea3a474-1.jpg](https://postimg.cc/vggmczM0) 
 
 **Voxera** is a platform for expressing and sharing ideas in a global, text-based community. 🌍 It allows users to connect, engage, and communicate through their thoughts, making their voices heard across the world. 💬
 
