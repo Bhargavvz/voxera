@@ -1,5 +1,7 @@
 # 🚀 Voxera
 
+![Voxera Logo](https://postimg.cc/vggmczM0)
+
 **Voxera** is a platform for expressing and sharing ideas in a global, text-based community. 🌍 It allows users to connect, engage, and communicate through their thoughts, making their voices heard across the world. 💬
 
 ---
@@ -71,4 +73,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 🌟 **Join the conversation!** Share your voice, shape the world! 🌍✨
-
