@@ -1,6 +1,6 @@
 # 🚀 Voxera
 
-![Voxera](https://www.imghippo.com/i/xQlb6763F.jpg)
+![Voxera](https://i.imghippo.com/files/xQlb6763F.jpg)
 
 **Voxera** is a platform for expressing and sharing ideas in a global, text-based community. 🌍 It allows users to connect, engage, and communicate through their thoughts, making their voices heard across the world. 💬
 
