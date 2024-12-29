@@ -30,90 +30,61 @@
 
 ### **⚙️ Tech Stack:**
 
-<div style="margin-top: 30px;">
-  <h3 style="text-align: center; color: #023e8a;">The following technologies are being used to build and power **Voxera**:</h3>
+The following technologies are being used to build and power **Voxera**:
 
-  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 20px;">
-    
-    <div style="text-align: center; margin: 15px;">
-      <h4><strong>Frontend:</strong></h4>
-      <ul style="list-style-type: none; font-size: 16px;">
-        <li><strong>Next.js</strong> ⚛️</li>
-        <li><strong>Tailwind CSS</strong> 🖌️</li>
-        <li><strong>Socket.IO</strong> 🔌</li>
-      </ul>
-    </div>
+---
 
-    <div style="text-align: center; margin: 15px;">
-      <h4><strong>Backend:</strong></h4>
-      <ul style="list-style-type: none; font-size: 16px;">
-        <li><strong>Supabase</strong> 🔑</li>
-        <li><strong>PostgreSQL</strong> 🗃️</li>
-        <li><strong>JWT</strong> 🔐</li>
-        <li><strong>Bcrypt</strong> 🔑</li>
-      </ul>
-    </div>
+#### **Frontend:**
+- **Next.js** ⚛️
+- **Tailwind CSS** 🖌️
+- **Socket.IO** 🔌
 
-    <div style="text-align: center; margin: 15px;">
-      <h4><strong>Additional Tools:</strong></h4>
-      <ul style="list-style-type: none; font-size: 16px;">
-        <li><strong>Docker</strong> 🐳</li>
-        <li><strong>Heroku/Vercel</strong> ☁️</li>
-      </ul>
-    </div>
+---
 
-  </div>
-</div>
+#### **Backend:**
+- **Supabase** 🔑
+- **PostgreSQL** 🗃️
+- **JWT** 🔐
+- **Bcrypt** 🔑
+
+---
+
+#### **Additional Tools:**
+- **Docker** 🐳
+- **Heroku/Vercel** ☁️
 
 ---
 
 ### **🛠️ Features:**
 
-<div style="margin-top: 30px;">
-  <h3 style="text-align: center; color: #023e8a;">Key Features of **Voxera**:</h3>
-  
-  <div style="display: flex; flex-direction: column; align-items: center; font-size: 16px; margin-top: 20px;">
-    <ul style="list-style-type: disc; padding-left: 20px;">
-      <li><strong>Account creation:</strong> ✨ Users can create an account using Supabase authentication, making it easy to get started.</li>
-      <li><strong>Text-based posts (Vox):</strong> ✍️ Share your ideas with the world through simple text posts called "Vox".</li>
-      <li><strong>Real-time messaging:</strong> 💬 Engage in direct messages with other users and experience real-time conversations.</li>
-      <li><strong>Notifications:</strong> 🔔 Stay updated with live notifications on new messages, comments, and interactions.</li>
-      <li><strong>Global feed:</strong> 🌍 Discover posts from people around the world, and contribute your voice to global discussions.</li>
-      <li><strong>Profile management:</strong> 🧑‍💻 Create and manage your personal profile, and keep track of your posts and messages.</li>
-    </ul>
-  </div>
-</div>
+Key features of **Voxera**:
+
+- **Account creation**: ✨ Users can create an account using Supabase authentication, making it easy to get started.
+- **Text-based posts (Vox)**: ✍️ Share your ideas with the world through simple text posts called "Vox".
+- **Real-time messaging**: 💬 Engage in direct messages with other users and experience real-time conversations.
+- **Notifications**: 🔔 Stay updated with live notifications on new messages, comments, and interactions.
+- **Global feed**: 🌍 Discover posts from people around the world, and contribute your voice to global discussions.
+- **Profile management**: 🧑‍💻 Create and manage your personal profile, and keep track of your posts and messages.
 
 ---
 
 ### **🤝 Contributing:**
 
-<div style="margin-top: 30px; text-align: center;">
-  <p>We welcome contributions to **Voxera**! If you’re interested in helping improve the platform or adding new features, feel free to open a pull request. Here’s how you can contribute:</p>
+We welcome contributions to **Voxera**! If you’re interested in helping improve the platform or adding new features, feel free to open a pull request. Here’s how you can contribute:
 
-  <div style="font-size: 16px; margin-top: 20px;">
-    <ol style="text-align: left; display: inline-block;">
-      <li>Fork the repository 🍴</li>
-      <li>Clone your forked repository to your local machine 🖥️</li>
-      <li>Create a new branch for your feature or fix 🌱</li>
-      <li>Make your changes and commit them ✍️</li>
-      <li>Push your changes to your fork 🚀</li>
-      <li>Open a pull request 🔄</li>
-    </ol>
-  </div>
-</div>
+1. Fork the repository 🍴
+2. Clone your forked repository to your local machine 🖥️
+3. Create a new branch for your feature or fix 🌱
+4. Make your changes and commit them ✍️
+5. Push your changes to your fork 🚀
+6. Open a pull request 🔄
 
 ---
 
 ### **📄 License:**
 
-<div style="margin-top: 30px; text-align: center;">
-  This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-</div>
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ### 🌟 **Join the conversation!** Share your voice, shape the world! 🌍✨
-
----
-
